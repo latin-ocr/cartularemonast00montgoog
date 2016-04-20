@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cartularemonast00montgoog_0574.png"; bbox 0 0 1033 1483; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 240 212 858 1178">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 240 212 858 1178">
+     <span class='ocr_line' id='line_1_1' title="bbox 240 212 858 1178; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 240 212 858 1178; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 337 1229 748 1242">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 337 1229 748 1242">
+     <span class='ocr_line' id='line_1_2' title="bbox 337 1229 748 1242; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 337 1230 364 1242; x_wconf 48' lang='lat' dir='ltr'>*xix</span> <span class='ocrx_word' id='word_1_3' title='bbox 386 1230 489 1242; x_wconf 66' lang='grc' dir='ltr'>ΙΧΙΙΙῙΙὶΙΙῐΙ</span> <span class='ocrx_word' id='word_1_4' title='bbox 509 1230 525 1242; x_wconf 66' lang='lat'>15!</span> <span class='ocrx_word' id='word_1_5' title='bbox 548 1230 550 1242; x_wconf 81' lang='lat'>1</span> <span class='ocrx_word' id='word_1_6' title='bbox 568 1229 624 1242; x_wconf 51' lang='lat' dir='ltr'>nuh)</span> <span class='ocrx_word' id='word_1_7' title='bbox 643 1230 657 1242; x_wconf 70' lang='lat'>17!</span> <span class='ocrx_word' id='word_1_8' title='bbox 676 1229 748 1242; x_wconf 66' lang='grc' dir='ltr'><strong>ΙἸιἸΙΙΙέΙ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
